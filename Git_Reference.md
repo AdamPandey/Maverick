@@ -4,3 +4,4 @@
 11/16/2025 20:00:00 - V0.0.3: Refactored PCG Terrain Generation to improve FPS
 11/16/2025 23:40:00 - V0.0.4: Debugged Collision Responses for better controller support
 11/17/2025 03:20:00 - V0.0.5: Polished Enhanced Input Mapping based on QA feedback
+11/17/2025 07:00:00 - V0.0.6: Optimized Pause Menu Logic for better controller support
