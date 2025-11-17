@@ -6,3 +6,4 @@
 11/17/2025 03:20:00 - V0.0.5: Polished Enhanced Input Mapping based on QA feedback
 11/17/2025 07:00:00 - V0.0.6: Optimized Pause Menu Logic for better controller support
 11/17/2025 10:40:00 - V0.0.7: Tweaked LOD Distance Settings for smoother gameplay
+11/17/2025 14:20:00 - V0.0.8: Integrated PCG Terrain Generation to improve FPS
