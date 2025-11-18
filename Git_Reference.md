@@ -11,3 +11,4 @@
 11/17/2025 21:40:00 - V0.1.0: Optimized Missile Homing Physics to improve FPS
 11/18/2025 01:20:00 - V0.1.1: Disabled collision on BP_Pilot Flight Model for final release polish
 11/18/2025 05:00:00 - V0.1.2: Optimized Save Game Architecture for smoother gameplay
+11/18/2025 08:40:00 - V0.1.3: Synchronized Niagara Flare System for better controller support
