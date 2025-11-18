@@ -15,3 +15,4 @@
 11/18/2025 12:20:00 - V0.1.4: Integrated SAM Site Detection Logic to improve FPS
 11/18/2025 16:00:00 - V0.1.5: Re-calibrated HUD Widget Reticle to reduce memory overhead
 11/18/2025 19:40:00 - V0.1.6: Cleaned up nodes in SAM Site Detection Logic for better controller support
+11/18/2025 23:20:00 - V0.1.7: Updated assets for Collision Responses to fix runtime error
