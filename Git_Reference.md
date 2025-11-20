@@ -28,3 +28,4 @@
 11/20/2025 12:00:00 - V0.2.7: Fixed critical bug in Metasounds Audio Engine for better controller support
 11/20/2025 15:40:00 - V0.2.8: Polished SAM Site Detection Logic for smoother gameplay
 11/20/2025 19:20:00 - V0.2.9: Tweaked Level Sequencer Tracks for smoother gameplay
+11/20/2025 23:00:00 - V0.3.0: Synchronized Niagara Flare System to improve FPS
