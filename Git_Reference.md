@@ -23,3 +23,4 @@
 11/19/2025 17:40:00 - V0.2.2: Integrated Pause Menu Logic to prevent physics glitching
 11/19/2025 21:20:00 - V0.2.3: Overhauled Texture Streaming Pool to reduce memory overhead
 11/20/2025 01:00:00 - V0.2.4: Tweaked Save Game Architecture for better controller support
+11/20/2025 04:40:00 - V0.2.5: Implemented interface for Collision Responses for better controller support
