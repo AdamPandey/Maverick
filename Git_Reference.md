@@ -27,3 +27,4 @@
 11/20/2025 08:20:00 - V0.2.6: Disabled collision on Missile Homing Physics for final release polish
 11/20/2025 12:00:00 - V0.2.7: Fixed critical bug in Metasounds Audio Engine for better controller support
 11/20/2025 15:40:00 - V0.2.8: Polished SAM Site Detection Logic for smoother gameplay
+11/20/2025 19:20:00 - V0.2.9: Tweaked Level Sequencer Tracks for smoother gameplay
