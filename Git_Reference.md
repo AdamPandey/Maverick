@@ -31,3 +31,4 @@
 11/20/2025 23:00:00 - V0.3.0: Synchronized Niagara Flare System to improve FPS
 11/21/2025 02:40:00 - V0.3.1: Disabled collision on Level Sequencer Tracks for smoother gameplay
 11/21/2025 06:20:00 - V0.3.2: Integrated Level Sequencer Tracks to prevent physics glitching
+11/21/2025 10:00:00 - V0.3.3: Overhauled Niagara Flare System to resolve collision race condition
