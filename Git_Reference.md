@@ -34,3 +34,4 @@
 11/21/2025 10:00:00 - V0.3.3: Overhauled Niagara Flare System to resolve collision race condition
 11/21/2025 13:40:00 - V0.3.4: Fixed critical bug in SAM Site Detection Logic for final release polish
 11/21/2025 17:20:00 - V0.3.5: Synchronized BP_Pilot Flight Model to prevent physics glitching
+11/21/2025 21:00:00 - V0.3.6: Fixed critical bug in Niagara Flare System for smoother gameplay
