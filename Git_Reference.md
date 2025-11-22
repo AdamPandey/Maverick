@@ -39,3 +39,4 @@
 11/22/2025 04:20:00 - V0.3.8: Re-calibrated Main Menu Widget to improve FPS
 11/22/2025 08:00:00 - V0.3.9: Updated assets for BP_Pilot Flight Model for better controller support
 11/22/2025 11:40:00 - V0.4.0: Re-calibrated Level Sequencer Tracks to reduce memory overhead
+11/22/2025 15:20:00 - V0.4.1: Debugged Collision Responses to resolve collision race condition
