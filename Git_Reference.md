@@ -35,3 +35,4 @@
 11/21/2025 13:40:00 - V0.3.4: Fixed critical bug in SAM Site Detection Logic for final release polish
 11/21/2025 17:20:00 - V0.3.5: Synchronized BP_Pilot Flight Model to prevent physics glitching
 11/21/2025 21:00:00 - V0.3.6: Fixed critical bug in Niagara Flare System for smoother gameplay
+11/22/2025 00:40:00 - V0.3.7: Re-calibrated Save Game Architecture to reduce memory overhead
