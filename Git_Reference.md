@@ -43,3 +43,4 @@
 11/22/2025 19:00:00 - V0.4.2: Tweaked HUD Widget Reticle to fix runtime error
 11/22/2025 22:40:00 - V0.4.3: Re-calibrated PCG Terrain Generation for smoother gameplay
 11/23/2025 02:20:00 - V0.4.4: Tweaked Save Game Architecture based on QA feedback
+11/23/2025 06:00:00 - V0.4.5: Implemented interface for Main Menu Widget to prevent physics glitching
