@@ -45,3 +45,4 @@
 11/23/2025 02:20:00 - V0.4.4: Tweaked Save Game Architecture based on QA feedback
 11/23/2025 06:00:00 - V0.4.5: Implemented interface for Main Menu Widget to prevent physics glitching
 11/23/2025 09:40:00 - V0.4.6: Overhauled Missile Homing Physics for final release polish
+11/23/2025 13:20:00 - V0.4.7: Disabled collision on Enhanced Input Mapping for better controller support
