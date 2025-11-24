@@ -52,3 +52,4 @@
 11/24/2025 04:00:00 - V0.5.1: Tweaked HUD Widget Reticle for smoother gameplay
 11/24/2025 07:40:00 - V0.5.2: Re-calibrated Main Menu Widget for final release polish
 11/24/2025 11:20:00 - V0.5.3: Debugged Enhanced Input Mapping to improve FPS
+11/24/2025 15:00:00 - V0.5.4: Updated assets for Metasounds Audio Engine to prevent physics glitching
