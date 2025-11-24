@@ -51,3 +51,4 @@
 11/24/2025 00:20:00 - V0.5.0: Refactored Level Sequencer Tracks to prevent physics glitching
 11/24/2025 04:00:00 - V0.5.1: Tweaked HUD Widget Reticle for smoother gameplay
 11/24/2025 07:40:00 - V0.5.2: Re-calibrated Main Menu Widget for final release polish
+11/24/2025 11:20:00 - V0.5.3: Debugged Enhanced Input Mapping to improve FPS
