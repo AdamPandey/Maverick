@@ -48,3 +48,4 @@
 11/23/2025 13:20:00 - V0.4.7: Disabled collision on Enhanced Input Mapping for better controller support
 11/23/2025 17:00:00 - V0.4.8: Disabled collision on Missile Homing Physics to reduce memory overhead
 11/23/2025 20:40:00 - V0.4.9: Implemented interface for Missile Homing Physics to prevent physics glitching
+11/24/2025 00:20:00 - V0.5.0: Refactored Level Sequencer Tracks to prevent physics glitching
