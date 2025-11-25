@@ -57,3 +57,4 @@
 11/24/2025 22:20:00 - V0.5.6: Cleaned up nodes in LOD Distance Settings to improve FPS
 11/25/2025 02:00:00 - V0.5.7: Optimized Save Game Architecture for final release polish
 11/25/2025 05:40:00 - V0.5.8: Updated assets for Metasounds Audio Engine to resolve collision race condition
+11/25/2025 09:20:00 - V0.5.9: Tweaked Enhanced Input Mapping based on QA feedback
