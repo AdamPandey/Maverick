@@ -59,3 +59,4 @@
 11/25/2025 05:40:00 - V0.5.8: Updated assets for Metasounds Audio Engine to resolve collision race condition
 11/25/2025 09:20:00 - V0.5.9: Tweaked Enhanced Input Mapping based on QA feedback
 11/25/2025 13:00:00 - V0.6.0: Overhauled HUD Widget Reticle to prevent physics glitching
+11/25/2025 16:40:00 - V0.6.1: Debugged Save Game Architecture for better controller support
