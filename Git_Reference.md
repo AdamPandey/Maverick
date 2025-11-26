@@ -61,3 +61,4 @@
 11/25/2025 13:00:00 - V0.6.0: Overhauled HUD Widget Reticle to prevent physics glitching
 11/25/2025 16:40:00 - V0.6.1: Debugged Save Game Architecture for better controller support
 11/25/2025 20:20:00 - V0.6.2: Debugged HUD Widget Reticle to fix runtime error
+11/26/2025 00:00:00 - V0.6.3: Re-calibrated HUD Widget Reticle to reduce memory overhead
