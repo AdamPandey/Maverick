@@ -63,3 +63,4 @@
 11/25/2025 20:20:00 - V0.6.2: Debugged HUD Widget Reticle to fix runtime error
 11/26/2025 00:00:00 - V0.6.3: Re-calibrated HUD Widget Reticle to reduce memory overhead
 11/26/2025 03:40:00 - V0.6.4: Tweaked Pause Menu Logic for smoother gameplay
+11/26/2025 07:20:00 - V0.6.5: Optimized SAM Site Detection Logic to reduce memory overhead
