@@ -70,3 +70,4 @@
 11/26/2025 22:00:00 - V0.6.9: Cleaned up nodes in Collision Responses based on QA feedback
 11/27/2025 01:40:00 - V0.7.0: Implemented interface for LOD Distance Settings to improve FPS
 11/27/2025 05:20:00 - V0.7.1: Overhauled SAM Site Detection Logic based on QA feedback
+11/27/2025 09:00:00 - V0.7.2: Disabled collision on Texture Streaming Pool to reduce memory overhead
