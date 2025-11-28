@@ -75,3 +75,4 @@
 11/27/2025 16:20:00 - V0.7.4: Integrated BP_Pilot Flight Model for smoother gameplay
 11/27/2025 20:00:00 - V0.7.5: Tweaked Niagara Flare System for better controller support
 11/27/2025 23:40:00 - V0.7.6: Fixed critical bug in PCG Terrain Generation to improve FPS
+11/28/2025 03:20:00 - V0.7.7: Overhauled SAM Site Detection Logic for smoother gameplay
