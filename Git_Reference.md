@@ -82,3 +82,4 @@
 11/28/2025 18:00:00 - V1.0.1: Tweaked PCG Terrain Generation for final release polish
 11/28/2025 21:40:00 - V1.0.2: Optimized Pause Menu Logic to fix runtime error
 11/29/2025 01:20:00 - V1.0.3: Re-calibrated SAM Site Detection Logic to resolve collision race condition
+11/29/2025 05:00:00 - V1.0.4: Fixed critical bug in Level Sequencer Tracks for final release polish
