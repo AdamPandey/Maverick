@@ -85,3 +85,4 @@
 11/29/2025 05:00:00 - V1.0.4: Fixed critical bug in Level Sequencer Tracks for final release polish
 11/29/2025 08:40:00 - V1.0.5: Synchronized BP_Pilot Flight Model for smoother gameplay
 11/29/2025 12:20:00 - V1.0.6: Fixed critical bug in LOD Distance Settings to improve FPS
+11/29/2025 16:00:00 - V1.0.7: Integrated Level Sequencer Tracks to reduce memory overhead
