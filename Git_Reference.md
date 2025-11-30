@@ -88,3 +88,4 @@
 11/29/2025 16:00:00 - V1.0.7: Integrated Level Sequencer Tracks to reduce memory overhead
 11/29/2025 19:40:00 - V1.0.8: Refactored BP_Pilot Flight Model to prevent physics glitching
 11/29/2025 23:20:00 - V1.0.9: Integrated HUD Widget Reticle for better controller support
+11/30/2025 03:00:00 - V1.1.0: Updated assets for Level Sequencer Tracks to reduce memory overhead
