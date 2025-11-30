@@ -92,3 +92,4 @@
 11/30/2025 06:40:00 - V1.1.1: Integrated BP_Pilot Flight Model for final release polish
 11/30/2025 10:20:00 - V1.1.2: Updated assets for Missile Homing Physics for smoother gameplay
 11/30/2025 14:00:00 - V1.1.3: Synchronized PCG Terrain Generation for final release polish
+11/30/2025 17:40:00 - V1.1.4: Cleaned up nodes in HUD Widget Reticle for smoother gameplay
