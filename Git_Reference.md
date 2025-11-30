@@ -90,3 +90,4 @@
 11/29/2025 23:20:00 - V1.0.9: Integrated HUD Widget Reticle for better controller support
 11/30/2025 03:00:00 - V1.1.0: Updated assets for Level Sequencer Tracks to reduce memory overhead
 11/30/2025 06:40:00 - V1.1.1: Integrated BP_Pilot Flight Model for final release polish
+11/30/2025 10:20:00 - V1.1.2: Updated assets for Missile Homing Physics for smoother gameplay
