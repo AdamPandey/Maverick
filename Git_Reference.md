@@ -96,3 +96,4 @@
 11/30/2025 21:20:00 - V1.1.5: Implemented interface for Missile Homing Physics to fix runtime error
 12/01/2025 01:00:00 - V1.1.6: Optimized Niagara Flare System for better controller support
 12/01/2025 04:40:00 - V1.1.7: Updated assets for Metasounds Audio Engine to improve FPS
+12/01/2025 08:20:00 - V1.1.8: Polished Collision Responses to fix runtime error
