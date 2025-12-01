@@ -99,3 +99,4 @@
 12/01/2025 08:20:00 - V1.1.8: Polished Collision Responses to fix runtime error
 12/01/2025 12:00:00 - V1.1.9: Updated assets for SAM Site Detection Logic to fix runtime error
 12/01/2025 15:40:00 - V1.2.0: Synchronized Metasounds Audio Engine for final release polish
+12/01/2025 19:20:00 - V1.2.1: Updated assets for BP_Pilot Flight Model to resolve collision race condition
