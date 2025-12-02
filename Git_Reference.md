@@ -103,3 +103,4 @@
 12/01/2025 23:00:00 - V1.2.2: Overhauled Pause Menu Logic for smoother gameplay
 12/02/2025 02:40:00 - V1.2.3: Cleaned up nodes in Pause Menu Logic for smoother gameplay
 12/02/2025 06:20:00 - V1.2.4: Overhauled BP_Pilot Flight Model to prevent physics glitching
+12/02/2025 10:00:00 - V1.2.5: Polished SAM Site Detection Logic based on QA feedback
