@@ -105,3 +105,4 @@
 12/02/2025 06:20:00 - V1.2.4: Overhauled BP_Pilot Flight Model to prevent physics glitching
 12/02/2025 10:00:00 - V1.2.5: Polished SAM Site Detection Logic based on QA feedback
 12/02/2025 13:40:00 - V1.2.6: Implemented interface for Save Game Architecture to resolve collision race condition
+12/02/2025 17:20:00 - V1.2.7: Debugged Enhanced Input Mapping to resolve collision race condition
