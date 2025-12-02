@@ -101,3 +101,4 @@
 12/01/2025 15:40:00 - V1.2.0: Synchronized Metasounds Audio Engine for final release polish
 12/01/2025 19:20:00 - V1.2.1: Updated assets for BP_Pilot Flight Model to resolve collision race condition
 12/01/2025 23:00:00 - V1.2.2: Overhauled Pause Menu Logic for smoother gameplay
+12/02/2025 02:40:00 - V1.2.3: Cleaned up nodes in Pause Menu Logic for smoother gameplay
