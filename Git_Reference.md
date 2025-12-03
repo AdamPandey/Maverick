@@ -112,3 +112,4 @@
 12/03/2025 08:00:00 - V1.3.1: Refactored Collision Responses for smoother gameplay
 12/03/2025 11:40:00 - V1.3.2: Debugged LOD Distance Settings to resolve collision race condition
 12/03/2025 15:20:00 - V1.3.3: Debugged Level Sequencer Tracks to fix runtime error
+12/03/2025 19:00:00 - V1.3.4: Synchronized Metasounds Audio Engine for better controller support
