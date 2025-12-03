@@ -107,3 +107,4 @@
 12/02/2025 13:40:00 - V1.2.6: Implemented interface for Save Game Architecture to resolve collision race condition
 12/02/2025 17:20:00 - V1.2.7: Debugged Enhanced Input Mapping to resolve collision race condition
 12/02/2025 21:00:00 - V1.2.8: Fixed critical bug in Texture Streaming Pool for final release polish
+12/03/2025 00:40:00 - V1.2.9: Tweaked Main Menu Widget to prevent physics glitching
