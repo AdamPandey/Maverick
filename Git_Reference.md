@@ -110,3 +110,4 @@
 12/03/2025 00:40:00 - V1.2.9: Tweaked Main Menu Widget to prevent physics glitching
 12/03/2025 04:20:00 - V1.3.0: Integrated Enhanced Input Mapping to improve FPS
 12/03/2025 08:00:00 - V1.3.1: Refactored Collision Responses for smoother gameplay
+12/03/2025 11:40:00 - V1.3.2: Debugged LOD Distance Settings to resolve collision race condition
