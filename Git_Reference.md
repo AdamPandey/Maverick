@@ -118,3 +118,4 @@
 12/04/2025 06:00:00 - V1.3.7: Implemented interface for BP_Pilot Flight Model to prevent physics glitching
 12/04/2025 09:40:00 - V1.3.8: Integrated Pause Menu Logic to improve FPS
 12/04/2025 13:20:00 - V1.3.9: Tweaked Main Menu Widget for final release polish
+12/04/2025 17:00:00 - V1.4.0: Synchronized Missile Homing Physics to prevent physics glitching
