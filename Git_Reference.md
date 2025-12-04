@@ -117,3 +117,4 @@
 12/04/2025 02:20:00 - V1.3.6: Debugged Niagara Flare System based on QA feedback
 12/04/2025 06:00:00 - V1.3.7: Implemented interface for BP_Pilot Flight Model to prevent physics glitching
 12/04/2025 09:40:00 - V1.3.8: Integrated Pause Menu Logic to improve FPS
+12/04/2025 13:20:00 - V1.3.9: Tweaked Main Menu Widget for final release polish
