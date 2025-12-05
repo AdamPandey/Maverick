@@ -124,3 +124,4 @@
 12/05/2025 04:00:00 - V1.4.3: Fixed critical bug in Level Sequencer Tracks for final release polish
 12/05/2025 07:40:00 - V1.4.4: Updated assets for Niagara Flare System to resolve collision race condition
 12/05/2025 11:20:00 - V1.4.5: Disabled collision on Pause Menu Logic to improve FPS
+12/05/2025 15:00:00 - V1.4.6: Integrated Level Sequencer Tracks for better controller support
