@@ -126,3 +126,4 @@
 12/05/2025 11:20:00 - V1.4.5: Disabled collision on Pause Menu Logic to improve FPS
 12/05/2025 15:00:00 - V1.4.6: Integrated Level Sequencer Tracks for better controller support
 12/05/2025 18:40:00 - V1.4.7: Tweaked Texture Streaming Pool based on QA feedback
+12/05/2025 22:20:00 - V1.4.8: Fixed critical bug in Pause Menu Logic to resolve collision race condition
