@@ -121,3 +121,4 @@
 12/04/2025 17:00:00 - V1.4.0: Synchronized Missile Homing Physics to prevent physics glitching
 12/04/2025 20:40:00 - V1.4.1: Fixed critical bug in HUD Widget Reticle to improve FPS
 12/05/2025 00:20:00 - V1.4.2: Debugged Texture Streaming Pool to fix runtime error
+12/05/2025 04:00:00 - V1.4.3: Fixed critical bug in Level Sequencer Tracks for final release polish
