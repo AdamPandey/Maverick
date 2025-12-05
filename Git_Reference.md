@@ -123,3 +123,4 @@
 12/05/2025 00:20:00 - V1.4.2: Debugged Texture Streaming Pool to fix runtime error
 12/05/2025 04:00:00 - V1.4.3: Fixed critical bug in Level Sequencer Tracks for final release polish
 12/05/2025 07:40:00 - V1.4.4: Updated assets for Niagara Flare System to resolve collision race condition
+12/05/2025 11:20:00 - V1.4.5: Disabled collision on Pause Menu Logic to improve FPS
