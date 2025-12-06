@@ -131,3 +131,4 @@
 12/06/2025 05:40:00 - V1.5.0: Overhauled Niagara Flare System to prevent physics glitching
 12/06/2025 09:20:00 - V1.5.1: Updated assets for Save Game Architecture for smoother gameplay
 12/06/2025 13:00:00 - V1.5.2: Overhauled Level Sequencer Tracks for smoother gameplay
+12/06/2025 16:40:00 - V1.5.3: Implemented interface for Niagara Flare System based on QA feedback
