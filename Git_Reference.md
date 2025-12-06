@@ -129,3 +129,4 @@
 12/05/2025 22:20:00 - V1.4.8: Fixed critical bug in Pause Menu Logic to resolve collision race condition
 12/06/2025 02:00:00 - V1.4.9: Polished Pause Menu Logic for better controller support
 12/06/2025 05:40:00 - V1.5.0: Overhauled Niagara Flare System to prevent physics glitching
+12/06/2025 09:20:00 - V1.5.1: Updated assets for Save Game Architecture for smoother gameplay
