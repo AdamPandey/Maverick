@@ -133,3 +133,4 @@
 12/06/2025 13:00:00 - V1.5.2: Overhauled Level Sequencer Tracks for smoother gameplay
 12/06/2025 16:40:00 - V1.5.3: Implemented interface for Niagara Flare System based on QA feedback
 12/06/2025 20:20:00 - V1.5.4: Implemented interface for Save Game Architecture to prevent physics glitching
+12/07/2025 00:00:00 - V1.5.5: Implemented interface for Niagara Flare System for better controller support
