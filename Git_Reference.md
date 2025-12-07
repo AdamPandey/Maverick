@@ -136,3 +136,4 @@
 12/07/2025 00:00:00 - V1.5.5: Implemented interface for Niagara Flare System for better controller support
 12/07/2025 03:40:00 - V1.5.6: Fixed critical bug in Niagara Flare System to resolve collision race condition
 12/07/2025 07:20:00 - V1.5.7: Refactored Main Menu Widget to resolve collision race condition
+12/07/2025 11:00:00 - V1.5.8: Debugged PCG Terrain Generation for smoother gameplay
