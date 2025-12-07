@@ -138,3 +138,4 @@
 12/07/2025 07:20:00 - V1.5.7: Refactored Main Menu Widget to resolve collision race condition
 12/07/2025 11:00:00 - V1.5.8: Debugged PCG Terrain Generation for smoother gameplay
 12/07/2025 14:40:00 - V1.5.9: Optimized Collision Responses to resolve collision race condition
+12/07/2025 18:20:00 - V1.6.0: Tweaked PCG Terrain Generation for better controller support
