@@ -143,3 +143,4 @@
 12/08/2025 01:40:00 - V1.6.2: Re-calibrated Metasounds Audio Engine for smoother gameplay
 12/08/2025 05:20:00 - V1.6.3: Updated assets for Save Game Architecture to fix runtime error
 12/08/2025 09:00:00 - V1.6.4: Re-calibrated PCG Terrain Generation for final release polish
+12/08/2025 12:40:00 - V1.6.5: Debugged Niagara Flare System for smoother gameplay
