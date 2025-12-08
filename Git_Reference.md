@@ -145,3 +145,4 @@
 12/08/2025 09:00:00 - V1.6.4: Re-calibrated PCG Terrain Generation for final release polish
 12/08/2025 12:40:00 - V1.6.5: Debugged Niagara Flare System for smoother gameplay
 12/08/2025 16:20:00 - V1.6.6: Debugged Level Sequencer Tracks to reduce memory overhead
+12/08/2025 20:00:00 - V1.6.7: Debugged Level Sequencer Tracks for smoother gameplay
