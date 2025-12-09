@@ -151,3 +151,4 @@
 12/09/2025 07:00:00 - V1.7.0: Tweaked Pause Menu Logic for better controller support
 12/09/2025 10:40:00 - V1.7.1: Updated assets for PCG Terrain Generation to fix runtime error
 12/09/2025 14:20:00 - V1.7.2: Disabled collision on Texture Streaming Pool based on QA feedback
+12/09/2025 18:00:00 - V1.7.3: Re-calibrated Save Game Architecture for smoother gameplay
