@@ -156,3 +156,4 @@
 12/10/2025 01:20:00 - V1.7.5: Re-calibrated Texture Streaming Pool for smoother gameplay
 12/10/2025 05:00:00 - V1.7.6: Debugged Texture Streaming Pool to resolve collision race condition
 12/10/2025 08:40:00 - V1.7.7: Debugged Collision Responses for final release polish
+12/10/2025 12:20:00 - V1.7.8: Refactored Niagara Flare System to improve FPS
