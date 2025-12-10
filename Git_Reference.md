@@ -153,3 +153,4 @@
 12/09/2025 14:20:00 - V1.7.2: Disabled collision on Texture Streaming Pool based on QA feedback
 12/09/2025 18:00:00 - V1.7.3: Re-calibrated Save Game Architecture for smoother gameplay
 12/09/2025 21:40:00 - V1.7.4: Integrated Texture Streaming Pool to fix runtime error
+12/10/2025 01:20:00 - V1.7.5: Re-calibrated Texture Streaming Pool for smoother gameplay
