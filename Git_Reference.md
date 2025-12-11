@@ -161,3 +161,4 @@
 12/10/2025 19:40:00 - V2.0.0: Integrated SAM Site Detection Logic for final release polish
 12/10/2025 23:20:00 - V2.0.1: Refactored Metasounds Audio Engine for smoother gameplay
 12/11/2025 03:00:00 - V2.0.2: Overhauled Enhanced Input Mapping based on QA feedback
+12/11/2025 06:40:00 - V2.0.3: Re-calibrated Niagara Flare System for final release polish
